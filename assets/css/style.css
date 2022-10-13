@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+* {
+    font-family: jua;
+}
+
+main {
+    position: absolute;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+section .second {
+    position: absolute;
+    background-color: purple;
+    background-repeat: no-repeat;
+}
+
+.box {
+    background-color: white;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin: auto;
+}
